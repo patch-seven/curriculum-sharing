@@ -2,10 +2,10 @@ library(readr)
 library(tidyverse)
 library(knitr)
 library(WriteXLS)
-install.packages("xlsx")
+#install.packages("xlsx")
 library(xlsx)
 
-
+test
 
 subject_foe <- read_csv("Z:/Business Intelligence/309 Projects/2016_Flexible Academic Programme (FlexAP)/Curriculum Sharing/2015_16 subjects by foe teaching owning splits.csv")
 
